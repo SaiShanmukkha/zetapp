@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vo5T1BVjMxvDQBG+ywmq4c8hPS2lPjMJm41/7LglkSvzsdTOsHt+9afgN9vebHXfeshHa5k7QFC0KCq2mQJrLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\S.S Shanmukkha\\Desktop\\test-app\\zetapp\\zetapp\\zetapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\S.S Shanmukkha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
